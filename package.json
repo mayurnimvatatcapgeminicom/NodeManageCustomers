@@ -1,0 +1,19 @@
+{
+  "name": "customer-details",
+  "version": "1.0.0",
+  "description": "customer details",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Mayur Nimavat",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.0",
+    "firebase-admin": "^8.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^1.19.0"
+  }
+}
